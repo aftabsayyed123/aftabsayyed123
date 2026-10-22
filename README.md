@@ -18,7 +18,7 @@ An AI-powered lead management workflow built with n8n, OpenAI, Zoho CRM, and Gma
 - Automated email delivery
 - Error classification and email alerts
 
-🔗 [View GitHub Repository](https://github.com/sayyedfalak73-debug/leadflow-ai-automation)  
+🔗 [View GitHub Repository](https://github.com/aftabsayyed123/leadflow-ai-automation)  
 🎥 [Watch Project Demo](https://youtu.be/WjzOJd96DA8)
 
 ### 2. SupportPilot AI — RAG Customer Support & Human Handoff
