@@ -1,8 +1,8 @@
 # Hi, I'm Aftab Sayyed 👋
 
-### AI Automation Developer | n8n | Python | SQL
+### AI Automation Developer | n8n | RAG | CRM Integrations
 
-I build AI-powered business automations that help companies reduce repetitive work, improve efficiency, and streamline their workflows. I'm focused on practical AI, workflow automation, CRM integrations, and email automation.
+I build practical AI-powered workflows that automate customer support and lead management. My projects combine n8n, LLMs, vector search, CRM and email integrations, and human review to create reliable automations for real business processes.
 
 ## 🚀 Featured Projects
 
@@ -37,16 +37,19 @@ A local n8n portfolio demo that retrieves answers from support documents and rou
 
 > Practice project only; not affiliated with Vodafone. It does not access customer accounts or order systems. Use fictional data only.
 
-## 🛠️ Skills & Tools
-- **Automation:** n8n
-- **AI:** OpenAI API, Google Gemini
-- **Vector database:** Qdrant
-- **CRM:** Zoho CRM
-- **Ticket tracking:** Google Sheets
+## Skills & Tools
+
+- **Workflow automation:** n8n
+- **AI and LLMs:** OpenAI API, Google Gemini
+- **RAG and vector search:** Qdrant, embeddings, document retrieval
+- **CRM:** Zoho CRM, Salesforce, HubSpot
+- **Ticket tracking:** Google Sheets,CRM
 - **Email automation:** Gmail
 - **Programming:** Python
-- **Database:** SQL
-- **Version control:** Git & GitHub
+- **Web:** HTML, CSS
+- **Data handling:** SQL, data validation, deduplication
+- **Automation design:** intent classification, lead scoring, human approval, escalation, error handling
+- **Version control:** Git, GitHub
 
 ## 🎯 Current Goals
 - Build a professional AI automation portfolio
