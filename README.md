@@ -49,9 +49,6 @@ A local n8n portfolio demo that retrieves answers from support documents and rou
 - **Version control:** Git & GitHub
 
 ## 🎯 Current Goals
-- Build advanced AI automation projects
-- Learn workflow deployment and cloud hosting
-- Develop reliable business automation solutions
 - Build a professional AI automation portfolio
 
 ## 🤝 Let's Connect
